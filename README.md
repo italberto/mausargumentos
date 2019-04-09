@@ -2,7 +2,7 @@
 
 ## Sumário
 
-1. [Falácias Lógicas](#argumento-01)
+1. Falácias Lógicas
 2. Argumento a partir das consequências
 3. Falácia do Espantalho
 4. Apelo a uma autoridade irrelevante
@@ -54,7 +54,7 @@ Claro que a lógica não é a única ferramenta usda em debates e é bom estar c
 </div>
 
 
-## Argumento a partir das consequências {#argumento-01}
+## Argumento a partir das consequências
 
 O argumento a partir das consequências consiste em defender ou refutar a veracidade de uma declaração apelando às consequências que ela teria se fosse ferdadeira (ou falsa). Mas o fato de uma proposição levar a um resultado desfavorável não significa que ela seja falsa. Da mesma forma, o simples fato de ter consequências positivas não torna a afirmação automaticamente verídica. Como afirma o professor David Hackett Fischer: "Não se deduz que uma qualidade ligada a um efeito seja transferível à sua causa."
 
